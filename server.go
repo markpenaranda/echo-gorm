@@ -1,8 +1,8 @@
 package main
 
 import (
-	"api-crypto/db"
-	"api-crypto/route"
+	"github.com/markpenaranda/echo-gorm/db"
+	"github.com/markpenaranda/echo-gorm/route"
 )
 
 func main() {

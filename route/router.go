@@ -1,7 +1,7 @@
 package route
 
 import (
-	"api-crypto/api"
+	"echo-gorm/api"
 
 	"github.com/labstack/echo"
 )

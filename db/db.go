@@ -1,8 +1,8 @@
 package db
 
 import (
-	"api-crypto/config"
-	"api-crypto/model"
+	"echo-gorm/config"
+	"echo-gorm/model"
 	"fmt"
 
 	"github.com/jinzhu/gorm"

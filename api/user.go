@@ -1,8 +1,8 @@
 package api
 
 import (
-	"api-crypto/db"
-	"api-crypto/model"
+	"echo-gorm/db"
+	"echo-gorm/model"
 	"net/http"
 
 	"github.com/labstack/echo"
